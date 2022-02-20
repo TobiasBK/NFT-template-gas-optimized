@@ -1,3 +1,8 @@
+# In progress...
+sources: 
+- https://nftchance.medium.com/the-gas-efficient-way-of-building-and-launching-an-erc721-nft-project-for-2022-b3b1dac5f2e1
+- https://etherscan.io/address/0x0f78c6eee3c89ff37fd9ef96bd685830993636f2#code
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
