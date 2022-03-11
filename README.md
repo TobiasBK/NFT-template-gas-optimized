@@ -1,5 +1,7 @@
 # Gas optimized NFT template
 
+Includes a rewrite of the OZ ERC721Enumerable.sol. The rewrite greatly reduces the gas "guzzling" that is found in OZ version.
+
 ## Sources 
 
 - https://nftchance.medium.com/the-gas-efficient-way-of-building-and-launching-an-erc721-nft-project-for-2022-b3b1dac5f2e1
